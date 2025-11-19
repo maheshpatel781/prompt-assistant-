@@ -1,0 +1,5 @@
+{
+  "name": "Prompt Assistant",
+  "description": "An expert AI prompt engineering tool that transforms vague ideas into highly optimized, professional prompts for LLMs.",
+  "requestFramePermissions": []
+}
